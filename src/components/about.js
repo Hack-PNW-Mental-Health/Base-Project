@@ -1,9 +1,9 @@
-import React from 'react';
+import "./About.css"
 
 function About() {
   return (
     <div>
-      <h1> test </h1>
+        
     </div>
   );
 }

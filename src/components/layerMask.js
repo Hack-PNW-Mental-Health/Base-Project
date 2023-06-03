@@ -1,9 +1,9 @@
-import React from 'react';
+import "./css/LayerMask.css"
 
 function LayerMask() {
   return (
     <div>
-      <h1> test3 </h1>
+        
     </div>
   );
 }
